@@ -16,7 +16,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Rustom0/project1.git)
+- Solution URL: (https://github.com/Rustom0/project1.git)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
